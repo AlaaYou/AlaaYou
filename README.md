@@ -1,81 +1,133 @@
-<h1 align="center">Alaa Yousfi</h1>
+<div align="center">
+```
+ ░█████╗░██╗░░░░░░█████╗░░█████╗░  ██╗░░░██╗░█████╗░██╗░░░██╗░██████╗███████╗██╗
+ ██╔══██╗██║░░░░░██╔══██╗██╔══██╗  ╚██╗░██╔╝██╔══██╗██║░░░██║██╔════╝██╔════╝██║
+ ███████║██║░░░░░███████║███████║  ░╚████╔╝░██║░░██║██║░░░██║╚█████╗░█████╗░░██║
+ ██╔══██║██║░░░░░██╔══██║██╔══██║  ░░╚██╔╝░░██║░░██║██║░░░██║░╚═══██╗██╔══╝░░██║
+ ██║░░██║███████╗██║░░██║██║░░██║  ░░░██║░░░╚█████╔╝╚██████╔╝██████╔╝██║░░░░░██║
+ ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚═════╝░╚═════╝░╚═╝░░░░░╚═╝
+```
  
-<p align="center">
-  <strong>AI & Computer Vision Engineer · Software Engineering Student</strong><br/>
-  Building intelligent systems — from hand gesture control to sign language recognition.
-</p>
-<p align="center">
-  <a href="https://alaayousfiportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:yousfialaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/AlaaYousfi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+### `> I make machines see, understand, and act.`
+ 
+<br/>
+[![Portfolio](https://img.shields.io/badge/▸_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://alaayousfiportfolio.vercel.app)
+[![Email](https://img.shields.io/badge/▸_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousfialaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/▸_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlaaYousfi)
+[![GitHub](https://img.shields.io/badge/▸_GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlaaYou)
+ 
+</div>
+<br/>
 ---
  
-## About
+```python
+class AlaaYousfi:
+    def __init__(self):
+        self.location       = "Sfax, Tunisia 🇹🇳"
+        self.education      = "Software Engineering @ IIT"
+        self.obsession      = "Making computers perceive the physical world"
  
-I'm a software engineering student at **Institut International de Technologie**, Sfax, Tunisia — specializing in **AI, deep learning, and computer vision**.
+    @property
+    def currently_building(self):
+        return [
+            "Real-time sign language interpreter  →  SwinV2-Large + multimodal landmarks",
+            "Hand gesture hardware control         →  ESP32 + MediaPipe + OpenCV",
+            "AI-powered student chatbot            →  LangChain + Groq + ChromaDB (RAG)",
+        ]
  
-I don't just study AI — I build with it. From training a real-time **sign language model** using SwinV2-Large transformers, to building hand gesture systems that control hardware and software, I focus on applied AI that solves real problems.
- 
-Currently interested in:
- 
-- **Computer vision** — object detection, pose estimation, real-time inference
-- **Deep learning** — transformers, CNNs, multimodal models
-- **LLM tooling** — RAG pipelines, chatbots, LangChain, Groq
-- **AI × hardware** — bridging ML models with embedded systems (ESP32)
----
- 
-## Experience
- 
-**🔬 AI Intern — Société Sfax Informatique** *(Feb 2025 – Jun 2025)*
-> Trained a real-time sign language interpretation model (text + audio output) using **SwinV2-Large transformers** and multimodal landmarks.
- 
-**💻 Dev Intern — WebVue** *(Aug 2024)*
-> Built a real-time messaging app with React.js, Laravel, and MySQL — featuring group chat, file sharing, and live notifications.
- 
----
- 
-## AI Projects
- 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤟 Sign Language Model | Real-time interpretation with text & audio output | SwinV2-Large, Transformers, Python |
-| 🖱️ Hand Gesture Mouse | Control your cursor with hand gestures | Python, MediaPipe, OpenCV |
-| 🍅 Tomato Grade Classifier | Detection & grading of tomatoes | YOLOv8, Python, OpenCV |
-| 🤖 Student Orientation Chatbot | RAG-based chatbot for student guidance | LangChain, Groq API, ChromaDB |
-| 🦾 H.M.C (Hand Machine Control) | Control hardware with hand gestures | ESP32, Python, OpenCV, PySerial, MediaPipe |
- 
----
- 
-## Tech Stack
- 
-**AI / ML**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
- 
-**Web & Backend**
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+    @property
+    def interests(self):
+        return {
+            "computer_vision"  : ["object detection", "pose estimation", "real-time inference"],
+            "deep_learning"    : ["transformers", "CNNs", "multimodal models"],
+            "llm_engineering"  : ["RAG pipelines", "agents", "prompt design"],
+            "ai_x_hardware"    : ["ESP32", "embedded ML", "physical interfaces"],
+        }
+```
  
 ---
  
-## Current Focus
+<br/>
+## `// experience`
  
-| Area | Details |
-|------|---------|
-| 🎓 Degree | Software Engineering & Information Systems — IIT Sfax |
-| 🔭 Research interest | Real-time CV, multimodal transformers |
-| 🛠️ Building | AI-powered apps that bridge models and real-world interfaces |
-| 🌍 Languages | Arabic (native), French (advanced), English (advanced) |
+<br/>
+**`[2025]`** &nbsp; 🔬 &nbsp; **AI Research Intern — Société Sfax Informatique**
+> Trained a production-grade **real-time sign language model** (text + audio) using **SwinV2-Large transformers** and multimodal landmark fusion. Not a tutorial project — a full research pipeline from data to inference.
+ 
+<br/>
+**`[2024]`** &nbsp; 💻 &nbsp; **Dev Intern — WebVue**
+> Built a real-time messaging platform with React.js, Laravel & MySQL — group messaging, file sharing, live notifications.
  
 ---
  
-
+<br/>
+## `// shipped`
+ 
+<br/>
+> Things I've actually built, not just listed.
+ 
+<br/>
+| &nbsp; | Project | What it does | Stack |
+|--------|---------|-------------|-------|
+| 🤟 | **Sign Language Interpreter** | Real-time ASL → text + audio. SwinV2-Large. Multimodal. | `Python` `Transformers` `MediaPipe` |
+| 🦾 | **H.M.C — Hand Machine Control** | Your hand IS the controller. Moves hardware in real-time. | `ESP32` `Python` `OpenCV` `PySerial` |
+| 🖱️ | **Gesture Mouse** | No mouse needed. Just your hand. | `Python` `MediaPipe` `OpenCV` |
+| 🍅 | **Tomato Grade Classifier** | YOLOv8-powered quality detection for agricultural use. | `YOLOv8` `Python` `OpenCV` |
+| 🤖 | **Student Orientation Chatbot** | RAG chatbot that actually knows what it's talking about. | `LangChain` `Groq` `ChromaDB` |
+| 💬 | **laReChat** | Real-time messaging app, built from scratch. | `React.js` `Laravel` `MySQL` |
+ 
+---
+ 
+<br/>
+## `// arsenal`
+ 
+<br/>
+<div align="center">
+**— AI / Vision / ML —**
+ 
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=D00000)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0a0a0a?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0a0a0a?style=for-the-badge&logo=yolo&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=for-the-badge&logoColor=white)
+ 
+**— Web & Systems —**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+ 
+</div>
+---
+ 
+<br/>
+## `// stats`
+ 
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlaaYou&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaYou&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6" height="165" />
+<br/><br/>
+ 
+<img src="https://streak-stats.demolab.com?user=AlaaYou&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+</div>
+---
+ 
+<br/>
+<div align="center">
+```
+  "The goal is not to replace human intelligence.
+   It's to extend what humans can do with their hands,
+   their voice, their eyes — and give machines the same."
+                                          — Alaa Yousfi
+```
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlaaYou.AlaaYou&color=00ff88)
+ 
+</div>
