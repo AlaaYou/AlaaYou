@@ -78,9 +78,4 @@ Currently interested in:
  
 ---
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaYou&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaYou&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
+
