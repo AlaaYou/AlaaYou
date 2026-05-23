@@ -1,14 +1,14 @@
 <div align="center">
 ```
-░█████╗░██╗░░░░░░█████╗░░█████╗░  ██╗░░░██╗░█████╗░██╗░░░██╗░██████╗███████╗██╗
-██╔══██╗██║░░░░░██╔══██╗██╔══██╗  ╚██╗░██╔╝██╔══██╗██║░░░██║██╔════╝██╔════╝██║
-███████║██║░░░░░███████║███████║  ░╚████╔╝░██║░░██║██║░░░██║╚█████╗░█████╗░░██║
-██╔══██║██║░░░░░██╔══██║██╔══██║  ░░╚██╔╝░░██║░░██║██║░░░██║░╚═══██╗██╔══╝░░██║
-██║░░██║███████╗██║░░██║██║░░██║  ░░░██║░░░╚█████╔╝╚██████╔╝██████╔╝██║░░░░░██║
-╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚═════╝░╚═════╝░╚═╝░░░░░╚═╝
+░█████╗░██╗░░░░░░█████╗░░█████╗░    ██╗░░░██╗░█████╗░██╗░░░██╗░██████╗███████╗██╗
+██╔══██╗██║░░░░░██╔══██╗██╔══██╗    ╚██╗░██╔╝██╔══██╗██║░░░██║██╔════╝██╔════╝██║
+███████║██║░░░░░███████║███████║    ░╚████╔╝░██║░░██║██║░░░██║╚█████╗░█████╗░░██║
+██╔══██║██║░░░░░██╔══██║██╔══██║    ░░╚██╔╝░░██║░░██║██║░░░██║░╚═══██╗██╔══╝░░██║
+██║░░██║███████╗██║░░██║██║░░██║    ░░░██║░░░╚█████╔╝╚██████╔╝██████╔╝██║░░░░░██║
+╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝    ░░░╚═╝░░░░╚════╝░░╚═════╝░╚═════╝░╚═╝░░░░░╚═╝
 ```
  
-### `> I make machines see, understand, and act.`
+### `> I make machines see, understand, and act`
 
 &nbsp;
 
@@ -31,7 +31,7 @@ class AlaaYousfi:
     def __init__(self):
         self.location       = "Sfax, Tunisia 🇹🇳"
         self.education      = "Software Engineering @ IIT"
-        self.obsession      = "Making computers perceive the physical world"
+        self.obsession      = "Closing the gap between human perception and machine intelligence"
 
     @property
     def currently_building(self):
@@ -143,9 +143,6 @@ class AlaaYousfi:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlaaYou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaYou&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6" />
 
 &nbsp;
 
@@ -164,9 +161,7 @@ class AlaaYousfi:
 <div align="center">
 
 ```
-  "The goal is not to replace human intelligence.
-   It's to extend what humans can do with their hands,
-   their voice, their eyes — and give machines the same."
+  "The goal is to make life easier with Ai"
                                           — Alaa Yousfi
 ```
 
