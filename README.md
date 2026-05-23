@@ -162,7 +162,8 @@ class AlaaYousfi:
 
 ```
   "The goal is to make life easier with Ai"
-                                          — Alaa Yousfi
+
+                                          — Alaa Yousfi—
 ```
 
 </div>
