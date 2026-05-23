@@ -108,6 +108,7 @@ class AlaaYousfi:
 
 <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=D00000" />
 <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
 <img src="https://img.shields.io/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
