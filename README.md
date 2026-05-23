@@ -83,12 +83,12 @@ class AlaaYousfi:
 
 | &nbsp; | Project | What it does | Stack |
 |:------:|---------|-------------|-------|
-| 🤟 | **Sign Language Interpreter** | Real-time ASL → text + audio. SwinV2-Large. Multimodal. | `Python` `Transformers` `MediaPipe` |
-| 🦾 | **H.M.C — Hand Machine Control** | Your hand IS the controller. Moves hardware in real-time. | `ESP32` `Python` `OpenCV` `PySerial` |
-| 🖱️ | **Gesture Mouse** | No mouse needed. Just your hand. | `Python` `MediaPipe` `OpenCV` |
-| 🍅 | **Tomato Grade Classifier** | YOLOv8-powered quality detection for agricultural use. | `YOLOv8` `Python` `OpenCV` |
-| 🤖 | **Student Orientation Chatbot** | RAG chatbot that actually knows what it's talking about. | `LangChain` `Groq` `ChromaDB` |
-| 💬 | **laReChat** | Real-time messaging app, built from scratch. | `React.js` `Laravel` `MySQL` |
+| * | **Sign Language Interpreter** | Real-time ASL → text + audio. SwinV2-Large. Multimodal. | `Python` `Transformers` `MediaPipe` |
+| # | **H.M.C — Hand Machine Control** | Your hand IS the controller. Moves hardware in real-time. | `ESP32` `Python` `OpenCV` `PySerial` |
+| * | **Gesture Mouse** | No mouse needed. Just your hand. | `Python` `MediaPipe` `OpenCV` |
+| # | **Tomato Grade Classifier** | YOLOv8-powered quality detection for agricultural use. | `YOLOv8` `Python` `OpenCV` |
+| * | **Student Orientation Chatbot** | RAG chatbot that actually knows what it's talking about. | `LangChain` `Groq` `ChromaDB` |
+| # | **laReChat** | Real-time messaging app, built from scratch. | `React.js` `Laravel` `MySQL` |
 
 &nbsp;
 
